@@ -31,7 +31,7 @@ CUAV SX Radio模块为低成本无线数据解决方案提供了空前的作用�
 |  | Peer-to-peer \(master/slave relationship not required\), point-to-point/point-to-multipoint, mesh |
 |  | Optional 256-bit AES CBC encryption. Encryption is enabled with the ATKY command. |
 |  | GENERAL |
-| DIMENSIONS | 3.38 x 2.21 x 1.29 cm \(1.33 x 0.87 x 0.12 in\) |
+| DIMENSIONS |  |
 | WEIGHT | 40g |
 | ROHS | Compliant |
 | MANUFACTURING | ISO 9001:2000 registered standards |
@@ -39,8 +39,8 @@ CUAV SX Radio模块为低成本无线数据解决方案提供了空前的作用�
 | ANTENNA CONNECTOR OPTIONS | SMA |
 | ANTENNA IMPEDANCE | 50 ohms unbalanced |
 | MAXIMUM INPUT RF LEVEL AT ANTENNA PORT | 6 dBm |
-| OPERATING TEMPERATURE | -40° C to 85° C |
-| POWER REQUIREMENTS | 电源  |
+| OPERATING TEMPERATURE 工作范围 | -40° C to 85° C |
+| POWER REQUIREMENTS | 电源 |
 | SUPPLY VOLTAGE 支持电压 | 5 V typical |
 | RECEIVE CURRENT \(VCC = 5 V\) 接收电流 | 40 mA |
 | TRANSMIT CURRENT \(VCC = 5 V\)发射电流 | 900 mA @ 30 dBm; 640 mA @ 27 dBm; 330 mA @ 20 dBm |
