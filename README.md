@@ -45,7 +45,7 @@ CUAV SX Radio模块为低成本无线数据解决方案提供了空前的作用�
 | RECEIVE CURRENT \(VCC = 5 V\) | 40 mA |
 | TRANSMIT CURRENT \(VCC = 5 V\) | 900 mA @ 30 dBm; 640 mA @ 27 dBm; 330 mA @ 20 dBm |
 | SLEEP CURRENT \(VCC = 5 V\) | 2.5 uA |
-|  | REGULATORY APPROVALS |
+| REGULATORY APPROVALS |  |
 | UNITED STATES | [FCC ID: MCQ-XBPSX](https://www.digi.com/resources/certifications) |
 | CANADA | [IC: 1846A-XBPSX](https://www.digi.com/resources/certifications) |
 | AUSTRALIA | [RCM](https://www.digi.com/resources/certifications) |
