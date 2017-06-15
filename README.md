@@ -41,7 +41,7 @@ CUAV SX Radio模块为低成本无线数据解决方案提供了空前的作用�
 | MAXIMUM INPUT RF LEVEL AT ANTENNA PORT | 6 dBm |
 | OPERATING TEMPERATURE | -40° C to 85° C |
 | 电源 POWER REQUIREMENTS |  |
-| SUPPLY VOLTAGE | 5 V typical |
+| SUPPLY VOLTAGE 支持电压 | 5 V typical |
 | RECEIVE CURRENT \(VCC = 5 V\) | 40 mA |
 | TRANSMIT CURRENT \(VCC = 5 V\) | 900 mA @ 30 dBm; 640 mA @ 27 dBm; 330 mA @ 20 dBm |
 | SLEEP CURRENT \(VCC = 5 V\) | 2.5 uA |
