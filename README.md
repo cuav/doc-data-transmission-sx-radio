@@ -31,8 +31,8 @@ CUAV SX Radio模块为低成本无线数据解决方案提供了空前的作用�
 |  | Peer-to-peer \(master/slave relationship not required\), point-to-point/point-to-multipoint, mesh |
 |  | Optional 256-bit AES CBC encryption. Encryption is enabled with the ATKY command. |
 |  | GENERAL |
-| DIMENSIONS |  |
-| WEIGHT | 40g |
+| DIMENSIONS 尺寸 |  |
+| WEIGHT        重量 | 40g |
 | ROHS | Compliant |
 | MANUFACTURING | ISO 9001:2000 registered standards |
 | HOST INTERFACE CONNECTOR | 37 castellated SMT pads |
