@@ -26,6 +26,13 @@ CUAV SX Radio模块为低成本无线数据解决方案提供了空前的作用�
 
 
 
+### 安全加密
+
+支持256-bit AES encryption for secure data communications
+
+  
+
+
 ## 参数 {#参数}
 
 ---
