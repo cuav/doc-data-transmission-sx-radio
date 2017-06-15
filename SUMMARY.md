@@ -1,5 +1,6 @@
 # Summary
 
 * [概述](README.md)
-* [setup](setup.md)
+* [硬件连接使用](setup.md)
+* [soft](soft.md)
 
