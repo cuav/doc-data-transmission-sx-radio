@@ -24,14 +24,11 @@ CUAV SX Radio模块为低成本无线数据解决方案提供了空前的作用�
 
 ### 超远距离
 
-
+低速率模式最远支持 105 km \(65 mi\) \*\*\*\*\*
 
 ### 安全加密
 
 支持256-bit AES encryption for secure data communications
-
-  
-
 
 ## 参数 {#参数}
 
