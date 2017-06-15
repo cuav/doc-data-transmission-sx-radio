@@ -10,12 +10,9 @@ CUAV SX Radio模块为低成本无线数据解决方案提供了空前的作用�
 
 ## 参数 {#参数}
 
-
-
-
 |  | CUAV® SX RF |
 | :--- | :--- |
-|  | PERFORMANCE |
+| PERFORMANCE |  |
 | FREQUENCY RANGE | ISM 902 to 928 MHz |
 | TRANSMIT POWER \(SOFTWARE SELECTABLE\) | Up to 30 dBm\* |
 | CHANNELS | 10 hopping sequences share 50 frequencies |
