@@ -40,43 +40,43 @@ CUAV SX Radio模块为低成本无线数据解决方案提供了空前的作用�
 
 |  | CUAV® SX RF |
 | :--- | :--- |
-| PERFORMANCE |  |
-| FREQUENCY RANGE | ISM 902 to 928 MHz |
-| TRANSMIT POWER \(SOFTWARE SELECTABLE\) | Up to 30 dBm\* |
-| CHANNELS | 10 hopping sequences share 50 frequencies |
-|  | Low data rate: 10 kb/s; Middle data rate: 110 kb/s; High data rate: 250 kb/s |
-| MAXIMUM DATA THROUGHPUT | High data rate: 120 kb/s |
-| AVAILABLE CHANNEL FREQUENCIES | Low and middle data rate: 101\*\*; High data rate: 50 |
-|  | Low data rate: -113 dBm; Middle data rate: -106 dBm; High data rate: -103 dBm |
-|  | Low data rate, +/- 250 kHz: 40 dB; Low data rate, +/- 500 kHz: 50 dB Middle data rate, +/- 250 kHz: 30 dB; Middle data rate, +/- 500 kHz: 40 dB High data rate, +/- 500 kHz: 30 dB; High data rate, +/- 1000 kHz: 45 dB |
-| RECEIVER RF SELECTIVITY | Below 900 MHz and above 930 MHz; &gt; 50 dB |
-| RURAL RANGE LINE OF SIGHT\*\*\* | Low data rate: Up to 105 km \(65 mi\) |
-| URBAN RANGE LINE OF SIGHT\*\*\*\* | Low data rate: Up to 18 km \(11 mi\) |
-| INDOOR RANGE | Low data rate: Up to 300 m \(1,000 feet\) |
-|  | NETWORKING AND SECURITY |
-| MODULATION | Gaussian Frequency Shift Keying |
-| SPREADING TECHNOLOGY | Frequency Hopping Spread Spectrum \(FHSS\) |
-|  | Peer-to-peer \(master/slave relationship not required\), point-to-point/point-to-multipoint, mesh |
-|  | Optional 256-bit AES CBC encryption. Encryption is enabled with the ATKY command. |
+| 性能 |  |
+| 频率范围 | 902 ~ 928 MHz |
+| 传输功率（软件选择） | 高达 30 dBm\* |
+| 频点 | 10个跳频序列共享50个频点 |
+|  | 低数据速率：10 kb / s; 中间数据速率：110kb / s; 高数据速率：250 kb / s |
+| 最大数据量 | 高数据速率：120kb / s |
+| 可用的频道频率 | 低和中等数据速率：101 \*\*; 高数据速率：50 |
+|  | 低数据速率：-113 dBm; 中等数据速率：-106 dBm; 高数据速率：-103 dBm |
+|  | 低数据速率，+/- 250 kHz：40 dB; 低数据速率，+/- 500 kHz：50 dB中等数据速率，+/- 250 kHz：30 dB; 中等数据速率，+/- 500 kHz：40 dB高数据速率，+/- 500 kHz：30 dB; 高数据速率，+/- 1000 kHz：45 dB |
+| 接收机RF选择性 | 低于900 MHz，高于930 MHz; &gt; 50dB |
+| 理想环境传输距离 | 低数据速率：长达105公里（65英里） |
+| 市区距离 | 低数据速率：长达18公里（11英里） |
+| 室内范围 | 低数据速率：高达300ft（900m） |
+|  | 网络与安全 |
+| 调制 | Gaussian Frequency Shift Keying |
+| 跳频技术 | Frequency Hopping Spread Spectrum \(FHSS\) |
+| 网络拓扑 | 点对点（不需要主/从关系），点对点/点对多点和网络中继 |
+| 加密 | 256位AES |
 |  | GENERAL |
 | DIMENSIONS 尺寸 |  |
 | WEIGHT        重量 | 40g |
 | ROHS | Compliant |
-| MANUFACTURING | ISO 9001:2000 registered standards |
-| HOST INTERFACE CONNECTOR | 37 castellated SMT pads |
-| ANTENNA CONNECTOR OPTIONS | SMA |
-| ANTENNA IMPEDANCE | 50 ohms unbalanced |
-| MAXIMUM INPUT RF LEVEL AT ANTENNA PORT | 6 dBm |
+| 质量标准 | ISO 9001：2000注册标准 |
+|  |  |
+| 天线接口 | SMA |
+| 天线阻抗 | 约50 ohms  |
+| 天线端口的最大输入RF电平 | 6 dBm |
 | OPERATING TEMPERATURE 工作范围 | -40° C to 85° C |
-| POWER REQUIREMENTS | 电源 |
+| 电源 | 电源2.8-5.5v\(经调整） |
 | SUPPLY VOLTAGE 支持电压 | 5 V typical |
 | RECEIVE CURRENT \(VCC = 5 V\) 接收电流 | 40 mA |
 | TRANSMIT CURRENT \(VCC = 5 V\)发射电流 | 900 mA @ 30 dBm; 640 mA @ 27 dBm; 330 mA @ 20 dBm |
 | SLEEP CURRENT \(VCC = 5 V\) 休眠电流 | 2.5 uA |
 | REGULATORY APPROVALS 认证 |  |
-| UNITED STATES | [FCC ID: MCQ-XBPSX](https://www.digi.com/resources/certifications) |
-| CANADA | [IC: 1846A-XBPSX](https://www.digi.com/resources/certifications) |
-| AUSTRALIA | [RCM](https://www.digi.com/resources/certifications) |
+| 美国认证 | [FCC ID: MCQ-XBPSX](https://www.digi.com/resources/certifications) |
+| 加拿大认证 | [IC: 1846A-XBPSX](https://www.digi.com/resources/certifications) |
+| 澳大利亚认证 | [RCM](https://www.digi.com/resources/certifications) |
 
 
 
