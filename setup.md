@@ -4,7 +4,7 @@
 
 #### 不分接收端与发射端： {#不分接收端与发射端：}
 
-CUAV XTEND Radio模块不分接收端和发射端（不分飞机端和地面），模块上面内置了自动切换芯片
+CUAV SX Radio模块不分接收端和发射端（不分飞机端和地面），模块上面内置了自动切换芯片
 
 当USB插入电脑时，数据自动切换到USB端口
 
@@ -39,6 +39,8 @@ Pixhawk：插入到飞控的telem1或者telem2 接口
 默认标准接口速率为57600，可以根据需求更改需要的接口波特率
 
 ### 使用教程：
+
+http://doc.cuav.net/tutorial/copter/optional-hardware/radio/xbee%20Radio/xbeextend%20debug.html
 
 
 
