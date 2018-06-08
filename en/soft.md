@@ -1,32 +1,31 @@
-# 软件配置和驱动下载
+# Software Configuration and Driver Download
 
 ---
 
 
 
-### FTDI驱动 {#ftdi驱动}
+### FTDI Driver {#ftdi Driver}
 
-CUAV SX Radio内置的USB转TTL芯片为FT232FQ
+CUAV SX Radio's built-in USB to TTL chip is FT232FQ
 
-驱动下载
+Driver Download
 
-[http://www.ftdichip.com/FTDrivers.htm](http://www.ftdichip.com/FTDrivers.htm)
+[http://www.ftdichip.com/FTDrivers.htm] (http://www.ftdichip.com/FTDrivers.htm)
 
-### X-CTU软件配置指南书 {#x-ctu软件配置指南书}
+### X-CTU Software Configuration Guide {#x-ctu Software Configuration Guide}
 
-[http://pub.ucpros.com/download/90001003\_A.pdf](http://pub.ucpros.com/download/90001003_A.pdf)
+[http://pub.ucpros.com/download/90001003\_A.pdf] (http://pub.ucpros.com/download/90001003_A.pdf)
 
-注意不要**选错型号**进行配置，请**先读取**配置，再进行**修改配置**
+Be careful not to select the wrong model ** to configure, please read the ** configuration first, then ** modify the configuration **
 
-选错型号写错配置会导致变砖！
+Picking the wrong model and writing the wrong configuration will result in a brick break!
 
-### 软件下载 {#软件下载}
+### Software Download {#Software Download}
 
-新版X-CTU
+New X-CTU
 
-[https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu](https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu)
+[https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu] (https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu)
 
-新版软件说明文档
+New software documentation
 
-[https://www.digi.com/resources/documentation/digidocs/90001458-13/default.htm](https://www.digi.com/resources/documentation/digidocs/90001458-13/default.htm)
-
+[https://www.digi.com/resources/documentation/digidocs/90001458-13/default.htm] (https://www.digi.com/resources/documentation/digidocs/90001458-13/default.htm)
