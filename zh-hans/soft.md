@@ -7,6 +7,7 @@
 ### FTDI驱动 {#ftdi驱动}
 
 CUAV SX Radio内置的USB转TTL芯片为FT232FQ
+
 [驱动下载](http://www.ftdichip.com/FTDrivers.htm)
 
 ### X-CTU软件配置指南书 {#x-ctu软件配置指南书}
