@@ -3,6 +3,9 @@
   "description": "CUAV SX RADIO 超视距数据传输模块",
   "language": "zh-hans",
   "plugins": [
+    "youtube",
+    "language-picker",
+    "richquotes",
     "-sharing",
     "-highlight",
     "-livereload",
