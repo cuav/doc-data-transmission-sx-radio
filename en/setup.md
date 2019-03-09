@@ -38,6 +38,4 @@ If only the wireless data transmission module is used, please follow the interfa
 
 The default standard interface rate is 57600. The required interface baud rate can be changed according to the requirements.
 
-### Using the tutorial:
-
-http://doc.cuav.net/tutorial/copter/optional-hardware/radio/xbee%20Radio/xbeextend%20debug.html
+[Using the tutorial](http://doc.cuav.net/tutorial/copter/optional-hardware/radio/xbee%20Radio/xbeextend%20debug.html)
